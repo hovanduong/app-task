@@ -195,7 +195,7 @@ class _LoginScreenState extends State<LoginScreen> {
         Padding(
           padding: EdgeInsets.only(top: SizeToPadding.sizeVeryBig),
           child: Paragraph(
-            content: 'New around here?',
+            content: 'Do not have an account?',
             style: STYLE_MEDIUM.copyWith(
               fontWeight: FontWeight.w600,
             ),
